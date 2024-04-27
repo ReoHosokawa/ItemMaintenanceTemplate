@@ -1,0 +1,24 @@
+
+#item-id {
+    width: 10%;
+}
+
+#item-name {
+    width: 30%;
+}
+
+#price {
+    width: 10%;
+}
+
+#vendor {
+    width: 20%;
+}
+
+#buttons {
+    width: 30%;
+}
+
+.num-area {
+    text-align: right;
+}
