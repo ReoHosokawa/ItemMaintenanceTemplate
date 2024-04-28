@@ -18,7 +18,7 @@ public interface ItemMapper {
 	List<Item> findAll();
 
 	/**
-	 * 指定された商品 ID に紐づく商品情報を取得する
+	 * 指定された商品 ID に紐づく商品情報を 1 件取得する
 	 * @param id 取得対象の商品 ID
 	 * @return 取得した商品情報
 	 */
