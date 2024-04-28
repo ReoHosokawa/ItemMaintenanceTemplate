@@ -1,6 +1,8 @@
 package com.example.demo.domain;
 
-
+/**
+ * 商品情報管理クラス
+ */
 public class Item {
 	/**
 	 * 商品 ID

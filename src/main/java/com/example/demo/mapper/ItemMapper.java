@@ -6,6 +6,9 @@ import org.apache.ibatis.annotations.Mapper;
 
 import com.example.demo.domain.Item;
 
+/**
+ * 商品用マッパーインターフェース
+ */
 @Mapper
 public interface ItemMapper {
 	/**
